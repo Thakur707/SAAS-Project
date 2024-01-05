@@ -1,0 +1,16 @@
+ABC Enterprises
+123, Anna Salai, Chennai 600001
+GSTNO- 33ABCD1245X
+Email : procurement@abcent.com
+
+TO,
+XYZ Enterprises
+562, Anna Salai, Chennai 600002
+GSTNO-33XYZ12345Y
+
+Invoice_id – Invoice_number – Invoice_Date – Shipment_Date – Order_Date – Order_No – Delivery_No – ClientName – ClientAddress – DeliveryAddress – RemitTo – ItemNumber – Quantity – UnitPrice – Price – Totalinvoice – Status
+10273 – 344 – 2023/01/01 – 2023/02/02 – 2023/03/03 – 12131 – 9898 – mukthananda – Andra Pradesh – Andra – 80808 – 66 – 20 – 15 – 300 – 17 – Active
+12112 - 455 - 2023/02/02 - 2023/04/04 - 2023/06/06 - 23221 - 7978 - siddhant - bihar - vaishali - 78777 - 77 - 10 - 10 - 100 - 13 - Active
+99192 - 777 - 2022/02/02 - 2022/03/03 - 2022/04/04 - 24483 - 9843 - Nikhil - bangalore - kormangala - 8983 - 83 - 5 - 5 - 25 - 45 - notactive
+98980 - 637 - 2021/02/02 - 2021/03/03 - 2023/04/04 - 74843 - 9474 - virat - delhi - dwarka - 9474 - 83 - 2 - 2 - 4 - 84 - active
+74642 - 223 - 2020/02/02 - 2020/03/03 - 2020/05/05 - 97432 - 6473 - rohit - punjab - chandigarh - 6434 - 74 - 3 - 3 - 9 - 65 - active
